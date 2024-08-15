@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Got it, I am working on an alligator themed background.",
+        "message_id": "guest15082024233710",
+        "timestamp": "15082024233711",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change the background to be alligator themed",
         "message_id": "guest15082024233710",
