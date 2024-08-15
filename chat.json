@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the turtle-themed background, would you prefer a realistic or cartoonish design?\", \"option1\": \"Realistic design with lifelike turtle images\", \"option2\": \"Cartoonish design with stylized turtle graphics\"}, {\"question 2\": \"Should the turtle theme be applied across the entire website or only in specific sections?\", \"option1\": \"Apply the theme across the entire website\", \"option2\": \"Apply the theme only to specific sections of the website\"}], \"input_token_count\": 504, \"output_token_count\": 111, \"time_taken\": \"0:00:02.273929\"}",
+        "message_id": "guest15082024234159",
+        "timestamp": "15082024234206",
+        "component_file_name": "purple_background_cta_component_1723749504",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it. Changing the background to turtle theme.",
         "message_id": "guest15082024234159",
