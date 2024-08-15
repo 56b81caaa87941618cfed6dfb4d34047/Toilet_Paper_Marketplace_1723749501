@@ -1,3 +1,4 @@
+
 /* Summary: The section has a blurred radial gradient background and a call-to-action (CTA) content block.
 It is centered on the page and includes a gradient-based title, a subtitle, a paragraph of text, and a button with a gradient background.
 */
@@ -25,11 +26,14 @@ Vue.component("purple_background_cta_component_1723749504", {
                     <div id="content-subtitle" class="flex"><div id="content-subtitle-text" class="flex-1 font-medium bg-clip-text pb-3 text-transparent bg-gradient-to-r from-purple-500 to-purple-200">Soft, Strong, and Always in Stock</div></div>
                     <div class="flex" id="content-title-container"><h2 id="content-title" class="flex-1 h2 bg-clip-text pb-4 bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60"> Roll into Savings: Your Ultimate Toilet Paper Hub</h2></div>
                     <div class="flex" id="content-body-container"><p id="content-body" class="flex-1 text-lg mb-8 text-slate-400">Wipe away your worries with our extensive selection of toilet paper brands, styles, and eco-friendly options. From budget-friendly bulk buys to premium quilted comfort, we've got your bathroom needs covered.</p></div>
+                    <!-- Image -->
+                    <img src="os.getenv('MENTAT_BASE_URL')/get_images/Toilet_Paper_Marketplace_1723749501/3a17055a8cee4ac6ba9c24faf7c8ad94.jpeg" alt="Toilet Paper Image" class="w-full h-auto mb-8">
                     <a id="content-cta-button" href="#0" class="btn transition duration-150 ease-in-out group text-slate-900 bg-gradient-to-r from-white/80 via-white to-white/80 hover:bg-white">Get Started <span id="content-cta-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-500">-&gt;</span></a>
                 </div>
             </div>
         </div>
-    </section>`,
+    </section>`
+        ,
         data() {
             return {
                 expanded: false, 
