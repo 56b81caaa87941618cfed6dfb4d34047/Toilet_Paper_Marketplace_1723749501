@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the alligator theme to be realistic or cartoonish in its design?\", \"option1\": \"Realistic with detailed textures and colors\", \"option2\": \"Cartoonish with a playful and vibrant design\"}, {\"question 2\": \"Should the alligator theme be applied across the entire website or only in select sections?\", \"option1\": \"Across the entire website for a uniform look\", \"option2\": \"Only in select sections to maintain focus on key areas\"}], \"input_token_count\": 507, \"output_token_count\": 112, \"time_taken\": \"0:00:03.718772\"}",
+        "message_id": "guest15082024234527",
+        "timestamp": "15082024234536",
+        "component_file_name": "purple_background_cta_component_1723749504",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the background to be alligator themed",
         "message_id": "guest15082024234527",
