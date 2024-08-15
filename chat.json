@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the toilet paper theme to have a realistic or cartoon-style design?\", \"option1\": \"Realistic\", \"option2\": \"Cartoon-style\"}, {\"question 2\": \"Do you want the theme to be applied globally across the entire site or just specific sections?\", \"option1\": \"Globally across the entire site\", \"option2\": \"Only specific sections\"}], \"input_token_count\": 542, \"output_token_count\": 93, \"time_taken\": \"0:00:02.488571\"}",
+        "message_id": "guest15082024235348",
+        "timestamp": "15082024235355",
+        "component_file_name": "purple_header_component_1723749504",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Understood, working on making the background toilet paper themed.",
         "message_id": "guest15082024235348",
