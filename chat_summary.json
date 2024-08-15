@@ -48,5 +48,11 @@
         "content": "Change the background to be alligator themed",
         "timestamp": "15082024233710",
         "message_id": "guest15082024233710"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, I am working on an alligator themed background.",
+        "timestamp": "15082024233711",
+        "message_id": "guest15082024233710"
     }
 ]
