@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "make the background turtle themed",
+        "message_id": "guest15082024234159",
+        "timestamp": "15082024234159",
+        "component_file_name": "purple_background_cta_component_1723749504",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"For the turtle-themed background, do you prefer a more realistic portrayal of turtles or a cartoon/anime style?\", \"option1\": \"Realistic\", \"option2\": \"Cartoon/Anime\"}, {\"question 2\": \"Would you like the background to feature a specific type of turtle environment, such as underwater scenes or beach landscapes?\", \"option1\": \"Underwater scenes\", \"option2\": \"Beach landscapes\"}], \"input_token_count\": 418, \"output_token_count\": 100, \"time_taken\": \"0:00:02.608486\"}",
         "message_id": "guest15082024234107",
