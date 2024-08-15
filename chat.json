@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Got it, working on making the background turtle themed.",
+        "message_id": "guest15082024233834",
+        "timestamp": "15082024233835",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the background to be turtle themed",
         "message_id": "guest15082024233834",
