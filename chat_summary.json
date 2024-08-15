@@ -18,5 +18,11 @@
         "content": "Got it, designing a video game themed background now.",
         "timestamp": "15082024224320",
         "message_id": "guest15082024224319"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a specific video game or genre in mind for the theme, or would you prefer a general video game aesthetic?\", \"option1\": \"I have a specific video game/genre in mind.\", \"option2\": \"I prefer a general video game aesthetic.\"}, {\"question 2\": \"Should the theme be more vibrant and colorful, or subtle and understated to not overshadow the product listings?\", \"option1\": \"Vibrant and colorful\", \"option2\": \"Subtle and understated\"}], \"input_token_count\": 257, \"output_token_count\": 117, \"time_taken\": \"0:00:04.195121\"}",
+        "timestamp": "15082024224328",
+        "message_id": "guest15082024224319"
     }
 ]
