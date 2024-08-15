@@ -54,5 +54,11 @@
         "content": "Got it, I am working on an alligator themed background.",
         "timestamp": "15082024233711",
         "message_id": "guest15082024233710"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the alligator theme to be realistic or cartoon-style?\", \"option1\": \"Realistic with high-resolution images of alligators and swamps\", \"option2\": \"Cartoon-style featuring colorful and friendly alligator illustrations\"}, {\"question 2\": \"Do you wish to incorporate any specific elements or icons related to alligators into the background theme, such as water lilies, swamps, or anything else?\", \"option1\": \"Yes, include elements like water lilies and swamps for a more immersive theme\", \"option2\": \"No, just focus on alligators without additional thematic elements\"}], \"input_token_count\": 320, \"output_token_count\": 139, \"time_taken\": \"0:00:03.325946\"}",
+        "timestamp": "15082024233718",
+        "message_id": "guest15082024233710"
     }
 ]
