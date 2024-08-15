@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the turtle theme to be more cartoonish or realistic in design?\", \"option1\": \"Cartoonish\", \"option2\": \"Realistic\"}, {\"question 2\": \"Do you prefer a specific color palette to be dominant in the turtle-themed background?\", \"option1\": \"Bright and vibrant colors\", \"option2\": \"Soft and natural tones\"}], \"input_token_count\": 354, \"output_token_count\": 89, \"time_taken\": \"0:00:02.058346\"}",
+        "message_id": "guest15082024233834",
+        "timestamp": "15082024233842",
+        "component_file_name": "purple_background_cta_component_1723749504",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, working on making the background turtle themed.",
         "message_id": "guest15082024233834",
