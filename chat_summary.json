@@ -30,5 +30,11 @@
         "content": "change the backgroudn to be alligator themed",
         "timestamp": "15082024224744",
         "message_id": "guest15082024224744"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the alligator theme to be more realistic or cartoonish in design?\", \"option1\": \"Realistic alligator skin pattern\", \"option2\": \"Cartoonish alligator characters\"}, {\"question 2\": \"Should this alligator theme be applied across the entire website or only specific sections?\", \"option1\": \"Entire website\", \"option2\": \"Specific sections only\"}], \"input_token_count\": 260, \"output_token_count\": 95, \"time_taken\": \"0:00:01.903751\"}",
+        "timestamp": "15082024224750",
+        "message_id": "guest15082024224744"
     }
 ]
