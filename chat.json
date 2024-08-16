@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the new dinosaur image to be the same size as the existing one or different?\", \"option1\": \"Same size\", \"option2\": \"Different size\"}, {\"question 2\": \"Where would you like the new dinosaur image positioned relative to the current one?\", \"option1\": \"Next to the existing one\", \"option2\": \"Below the existing one\"}], \"input_token_count\": 275, \"output_token_count\": 91, \"time_taken\": \"0:00:03.040894\"}",
+        "message_id": "guest16082024161020",
+        "timestamp": "16082024161028",
+        "component_file_name": "dark_footer_component_1723749504",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Add an additional dinosaur image to the component while keeping the existing one",
         "message_id": "guest16082024161020",
