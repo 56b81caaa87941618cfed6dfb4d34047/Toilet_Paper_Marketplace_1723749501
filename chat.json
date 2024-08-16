@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the mound of garbage to have a realistic or cartoonish style?\", \"option1\": \"Realistic\", \"option2\": \"Cartoonish\"}, {\"question 2\": \"Should the garbage mound theme be applied across the entire website or focus on specific sections only?\", \"option1\": \"Entire website\", \"option2\": \"Specific sections only\"}], \"input_token_count\": 525, \"output_token_count\": 89, \"time_taken\": \"0:00:02.831680\"}",
+        "message_id": "guest16082024002344",
+        "timestamp": "16082024002351",
+        "component_file_name": "dark_footer_component_1723749504",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Alright, will change the background to a mound of garbage.",
         "message_id": "guest16082024002344",
