@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you prefer the image of the mountain of garbage to have a realistic or more artistic/stylized appearance?\", \"option1\": \"Realistic\", \"option2\": \"Artistic/Stylized\"}, {\"question 2\": \"Should this garbage mountain themed background be applied to the entire website, or would you like it to be limited to specific components or sections?\", \"option1\": \"Entire website\", \"option2\": \"Specific components/sections\"}], \"input_token_count\": 531, \"output_token_count\": 107, \"time_taken\": \"0:00:02.396989\"}",
+        "message_id": "guest16082024002521",
+        "timestamp": "16082024002528",
+        "component_file_name": "dark_footer_component_1723749504",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the background of this component to be an image of a mountain of garbage",
         "message_id": "guest16082024002521",
