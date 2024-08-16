@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you prefer the image of the garbage mound to be photo-realistic or stylized/cartoonish?\", \"option1\": \"Photo-realistic\", \"option2\": \"Stylized/Cartoonish\"}, {\"question 2\": \"Should the updated garbage mound background apply across the entire website or only within a specific component?\", \"option1\": \"Entire website\", \"option2\": \"Specific component only\"}], \"input_token_count\": 656, \"output_token_count\": 99, \"time_taken\": \"0:00:02.228523\"}",
+        "message_id": "guest16082024003259",
+        "timestamp": "16082024003306",
+        "component_file_name": "purple_background_cta_component_1723749504",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change thsi background to be a heaping mound of garbage bags",
         "message_id": "guest16082024003259",
