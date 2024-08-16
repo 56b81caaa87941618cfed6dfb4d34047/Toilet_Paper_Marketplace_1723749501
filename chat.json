@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the dinosaur background to have a realistic or cartoonish design?\", \"option1\": \"Realistic\", \"option2\": \"Cartoonish\"}, {\"question 2\": \"Should the dinosaur theme be applied across the entire website or only specific sections?\", \"option1\": \"Entire website\", \"option2\": \"Specific sections\"}], \"input_token_count\": 582, \"output_token_count\": 84, \"time_taken\": \"0:00:03.045320\"}",
+        "message_id": "guest16082024160557",
+        "timestamp": "16082024160606",
+        "component_file_name": "dark_footer_component_1723749504",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll change the image to a dinosaur.",
         "message_id": "guest16082024160557",
