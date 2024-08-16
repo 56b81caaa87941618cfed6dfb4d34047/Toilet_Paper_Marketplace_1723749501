@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What visual style do you prefer for the toilet paper mound background?\", \"option1\": \"Photo-realistic\", \"option2\": \"Cartoonish/illustrated\"}, {\"question 2\": \"Do you want the toilet paper mound to be a static image or a dynamic, interactive background?\", \"option1\": \"Static image\", \"option2\": \"Dynamic, interactive background\"}], \"input_token_count\": 559, \"output_token_count\": 91, \"time_taken\": \"0:00:02.290622\"}",
+        "message_id": "guest16082024001203",
+        "timestamp": "16082024001211",
+        "component_file_name": "purple_background_cta_component_1723749504",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll change the background to a mound of toilet paper.",
         "message_id": "guest16082024001203",
