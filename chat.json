@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a specific boat image you would like us to use, or should we select one based on the theme of your app?\", \"option1\": \"I will provide the image.\", \"option2\": \"Please select an image that fits the theme.\"}, {\"question 2\": \"Where exactly on the website do you want the boat image to be placed? (e.g., homepage hero section, background of a specific page, etc.)\", \"option1\": \"Place it in the homepage hero section.\", \"option2\": \"Use it as the background of a specific page.\"}], \"input_token_count\": 256, \"output_token_count\": 132, \"time_taken\": \"0:00:05.480193\"}",
+        "message_id": "guest16082024165640",
+        "timestamp": "16082024165656",
+        "component_file_name": "purple_background_cta_component_1723749504",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the picture to be a boat",
         "message_id": "guest16082024165640",
