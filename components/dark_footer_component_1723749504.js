@@ -19,7 +19,10 @@ Vue.component("dark_footer_component_1723749504", {
                     <div id="footer-logo-copyright" class="mb-4 sm:mb-0">
                         <div class="mb-4">
                             <!-- Logo -->
-                            <a id="footer-logo" class="inline-flex" href="index.html" aria-label="© 2023 RollMart. All rights reserved."> <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Toilet_Paper_Marketplace_1723749501/main/images/063a8a82147241a292c8a7285ba592ca.jpeg" width="38" height="38" alt="Stellar"></a>
+                            <a id="footer-logo" class="inline-flex" href="index.html" aria-label="© 2023 RollMart. All rights reserved.">
+                                <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Toilet_Paper_Marketplace_1723749501/main/images/063a8a82147241a292c8a7285ba592ca.jpeg" width="38" height="38" alt="Stellar">
+                                <img src="https://example.com/dinosaur-image.jpg" width="38" height="38" alt="Dinosaur">
+                            </a>
                         </div>
                         <div id="footer-copyright" class="text-sm text-slate-400">© 2023 RollMart. All rights reserved. <span class="text-slate-500">-</span> All rights reserved.</div>
                     </div>
