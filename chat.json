@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the dinosaur theme to be realistic or cartoonish in style?\", \"option1\": \"Realistic\", \"option2\": \"Cartoonish\"}, {\"question 2\": \"Do you want the dinosaur-themed background to cover the entire website or be applied to specific sections only?\", \"option1\": \"Entire website\", \"option2\": \"Specific sections\"}], \"input_token_count\": 511, \"output_token_count\": 89, \"time_taken\": \"0:00:03.437304\"}",
+        "message_id": "guest16082024160229",
+        "timestamp": "16082024160237",
+        "component_file_name": "dark_footer_component_1723749504",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Certainly, I am working on a dinosaur themed background.",
         "message_id": "guest16082024160229",
