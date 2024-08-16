@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the garbage bags in the background to have a specific theme or color scheme?\", \"option1\": \"Yes, I would like a specific theme or color scheme.\", \"option2\": \"No, a general assortment of garbage bags will suffice.\"}, {\"question 2\": \"Should the background image be dynamic (e.g., subtly moving garbage bags) or static?\", \"option1\": \"I would like a dynamic background.\", \"option2\": \"A static image is what I'm looking for.\"}], \"input_token_count\": 653, \"output_token_count\": 116, \"time_taken\": \"0:00:02.931860\"}",
+        "message_id": "guest16082024003054",
+        "timestamp": "16082024003102",
+        "component_file_name": "purple_background_cta_component_1723749504",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "I'll change the background image to a pile of garbage bags.",
         "message_id": "guest16082024003054",
