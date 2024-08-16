@@ -78,5 +78,9 @@
     {
         "level": 1,
         "task_description": "change the background to be a boat"
+    },
+    {
+        "level": 1,
+        "task_description": "change the picture to be a boat"
     }
 ]
