@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll change the background to a mound of toilet paper.",
+        "message_id": "guest16082024001203",
+        "timestamp": "16082024001204",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change this background to be a mound of toilet paper",
         "message_id": "guest16082024001203",
