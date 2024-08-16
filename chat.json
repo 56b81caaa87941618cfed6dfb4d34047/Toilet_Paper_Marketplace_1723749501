@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the boat background to be more realistic or cartoonish in style?\", \"option1\": \"Realistic style\", \"option2\": \"Cartoonish style\"}, {\"question 2\": \"Should the boat be displayed as a standalone image or integrated within a scene (e.g., on the ocean, docked at a marina)?\", \"option1\": \"Standalone image\", \"option2\": \"Integrated within a scene\"}], \"input_token_count\": 256, \"output_token_count\": 104, \"time_taken\": \"0:00:03.176418\"}",
+        "message_id": "guest16082024165307",
+        "timestamp": "16082024165317",
+        "component_file_name": "dark_footer_component_1723749504",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Understood, working on changing the background to a boat.",
         "message_id": "guest16082024165307",
