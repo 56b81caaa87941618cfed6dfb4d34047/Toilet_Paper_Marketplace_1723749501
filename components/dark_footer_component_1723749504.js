@@ -1,4 +1,3 @@
-
 /* Summary: Describes a footer section of a website. The footer contains the following sections, each of which is a column:
 1. The first column includes the company logo, copyright notice, and social media links.
 2. The second column lists the products and services offered by the company.
@@ -20,7 +19,7 @@ Vue.component("dark_footer_component_1723749504", {
                     <div id="footer-logo-copyright" class="mb-4 sm:mb-0">
                         <div class="mb-4">
                             <!-- Logo -->
-                            <a id="footer-logo" class="inline-flex" href="index.html" aria-label="© 2023 RollMart. All rights reserved."> <img src="http://127.0.0.1:8000/get_image/Toilet_Paper_Marketplace_1723749501/0fe6df8eee1c44a499504e9c09c589fb.jpeg" width="38" height="38" alt="Stellar"></a>
+                            <a id="footer-logo" class="inline-flex" href="index.html" aria-label="© 2023 RollMart. All rights reserved."> <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Toilet_Paper_Marketplace_1723749501/main/images/063a8a82147241a292c8a7285ba592ca.jpeg" width="38" height="38" alt="Stellar"></a>
                         </div>
                         <div id="footer-copyright" class="text-sm text-slate-400">© 2023 RollMart. All rights reserved. <span class="text-slate-500">-</span> All rights reserved.</div>
                     </div>
