@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "Change this background to be a mound of toilet paper",
+        "message_id": "guest16082024001203",
+        "timestamp": "16082024001204",
+        "component_file_name": "purple_background_cta_component_1723749504",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the toilet paper theme to have a realistic or cartoon-style design?\", \"option1\": \"Realistic\", \"option2\": \"Cartoon-style\"}, {\"question 2\": \"Do you want the theme to be applied globally across the entire site or just specific sections?\", \"option1\": \"Globally across the entire site\", \"option2\": \"Only specific sections\"}], \"input_token_count\": 542, \"output_token_count\": 93, \"time_taken\": \"0:00:02.488571\"}",
         "message_id": "guest15082024235348",
