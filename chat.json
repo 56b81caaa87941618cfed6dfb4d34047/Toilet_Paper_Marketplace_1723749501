@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Alright, will change the background to a mound of garbage.",
+        "message_id": "guest16082024002344",
+        "timestamp": "16082024002344",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change this background to be a mound of garbage",
         "message_id": "guest16082024002344",
