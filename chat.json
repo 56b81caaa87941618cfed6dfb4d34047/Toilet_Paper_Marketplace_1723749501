@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "I'll change the image to feature a hedgehog.",
+        "message_id": "guest16082024205154",
+        "timestamp": "16082024205157",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the image to be a hedgehog",
         "message_id": "guest16082024205154",
