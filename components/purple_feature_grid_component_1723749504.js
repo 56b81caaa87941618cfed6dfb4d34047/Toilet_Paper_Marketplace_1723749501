@@ -55,7 +55,9 @@ Vue.component("purple_feature_grid_component_1723749504", {
             </div>
             <div class="flex" id="feature-6-description-container"><p id="feature-6-description" class="flex-1 text-sm">Find the best deals and compare prices across different brands and retailers to ensure you get the most value for your money.</p></div>
         </div>
-    </div>`,
+    </div>
+    <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Toilet_Paper_Marketplace_1723749501/main/images/dff3a557a76c4e7bba42c311d3531184.jpeg" alt="Feature Image" class="w-full md:col-span-3" />
+    `,
         data() {
             return {
                 expanded: false, 
@@ -63,4 +65,3 @@ Vue.component("purple_feature_grid_component_1723749504", {
             };
         },
     });
-                    
