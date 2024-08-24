@@ -4,5 +4,6 @@
     "project_description": "toilet paper marketplace",
     "creation_time": "2024-08-15 15:18:21.263276",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "stellar"
+    "selected_starter_template_id": "stellar",
+    "frontend_theme_prompt": "The image features a vibrant, otherworldly landscape dominated by shades of pink and purple, with a large, glowing moon and smaller celestial bodies against a star-studded sky, creating a dreamlike and surreal atmosphere."
 }
