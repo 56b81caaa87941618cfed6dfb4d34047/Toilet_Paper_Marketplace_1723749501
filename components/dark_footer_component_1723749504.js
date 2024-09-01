@@ -1,8 +1,16 @@
+/* Summary: Describes a footer section of a website. The footer contains the following sections, each of which is a column:
+1. The first column includes the company logo, copyright notice, and social media links.
+2. The second column lists the products and services offered by the company.
+3. The third column provides information about the company, including a blog, careers, and financial statements.
+4. The fourth column contains resources for the community, terms of service, and a vulnerability reporting page.
+5. The fifth column covers legal information such as the refund policy, terms and conditions, privacy policy, and brand kit.
+*/
+
 Vue.component("dark_footer_component_1723749504", {
     template: `
 <footer id="footer-section-container">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-white"> 
-        
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-white">
+ 
         <!-- Blocks -->
         <div class="grid sm:grid-cols-12 gap-8 py-8 md:py-12">
             <!-- 1st block -->
@@ -12,7 +20,7 @@ Vue.component("dark_footer_component_1723749504", {
                         <div class="mb-4">
                             <!-- Logo -->
                             <a id="footer-logo" class="inline-flex" href="index.html" aria-label="© 2023 RollMart. All rights reserved.">
-                                <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Toilet_Paper_Marketplace_1723749501/main/images/723aed890bca4a50b0c13302a99116f6.jpeg" width="38" height="38" alt="Brand Image">
+                                <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Toilet_Paper_Marketplace_1723749501/main/images/063a8a82147241a292c8a7285ba592ca.jpeg" width="38" height="38" alt="Stellar">
                                 <img src="https://example.com/dinosaur-image.jpg" width="38" height="38" alt="Dinosaur">
                             </a>
                         </div>
