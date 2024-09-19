@@ -9,6 +9,15 @@
         "div_action": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'm adding a button that says \"hadoken\" now.",
+        "message_id": "guest19092024143030",
+        "timestamp": "19092024143031",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
