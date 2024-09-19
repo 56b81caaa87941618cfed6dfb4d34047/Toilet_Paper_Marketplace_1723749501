@@ -1,5 +1,22 @@
 [
     {
+        "role": "user",
+        "content": "add a button that says hadoken",
+        "message_id": "guest19092024143030",
+        "timestamp": "19092024143031",
+        "component_file_name": "purple_header_component_1723749504",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "makeinfinite",
+        "content": "Can you describe the project a bit more?",
+        "message_id": "project_init",
+        "timestamp": "1723749504",
+        "component_file_name": "",
+        "div_id": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the hedgehog image to have a realistic or cartoonish style?\", \"option1\": \"Realistic\", \"option2\": \"Cartoonish\"}, {\"question 2\": \"Should this hedgehog image be applied to a specific component or as a general background for the entire website?\", \"option1\": \"Specific component\", \"option2\": \"General background\"}], \"input_token_count\": 552, \"output_token_count\": 90, \"time_taken\": \"0:00:02.420442\"}",
         "message_id": "guest16082024205154",
@@ -646,13 +663,5 @@
         "component_file_name": "purple_background_cta_component_1723753746",
         "div_id": "",
         "div_action": ""
-    },
-    {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1723749504",
-        "component_file_name": "",
-        "div_id": ""
     }
 ]
